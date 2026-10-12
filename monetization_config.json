@@ -1,0 +1,19 @@
+{
+  "revenuecat_public_api_key": "pdl_uddAumfOgJJrrDWnDOXKueKWKVXo",
+  "entitlement_id": "no_ads",
+  "subscription_purchase_link": "https://pay.rev.cat/fkpukyzfxelncrde/",
+  "lifetime_purchase_link": "https://pay.rev.cat/mtuxgcuzzegfobkd/",
+  "subscription_price_label": "$5 / year",
+  "lifetime_price_label": "$15 one-time",
+  "ads_feed_url": "",
+  "house_ads": [
+    {
+      "text": "Enjoying Battery Tray Monitor? Remove ads and support development.",
+      "url": "app:remove-ads"
+    },
+    {
+      "text": "More free Windows automation scripts by teucad on GitHub",
+      "url": "https://github.com/teucad/teucad-automation-scripts"
+    }
+  ]
+}
