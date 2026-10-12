@@ -1,0 +1,15 @@
+.venv/
+
+.claude/
+
+__pycache__/
+
+tests/__pycache__/
+
+/settings.json
+
+build/
+
+dist/
+
+license.json
