@@ -13,3 +13,5 @@ build/
 dist/
 
 license.json
+
+monetization_config.json
